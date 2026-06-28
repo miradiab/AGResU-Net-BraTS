@@ -2,7 +2,7 @@
 
 > Reproduction and enhancement of *Attention Gate ResU-Net for Automatic MRI Brain Tumor Segmentation* (Zhang et al., 2020) using the BraTS 2017, 2018, and 2019 datasets.
 
-**Team:** Layan Abandeh · Mira Diab · Sewar Abdelrahman  
+**Team:** Mira Diab · Layan Abandeh · Sewar Abdelrahman  
 **Course:** Machine Learning — Dr. Serin Atiani
 
 ---
